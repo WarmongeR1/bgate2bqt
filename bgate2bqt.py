@@ -26,7 +26,7 @@ import datetime
 GL_SCRIPT_NAME = "bgate2bqt"
 GL_SCRIPT_VERSION = "0.0.2"
 API_YANDEX_KEY = ''
-DEBUG = True
+DEBUG = False
 
 
 class MLStripper(HTMLParser):
